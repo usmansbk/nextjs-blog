@@ -11,7 +11,7 @@ Hello, devs,
 Usman here. I'm pleased to share a side project I've been working on since the beginning of the year. It's probably the only new year (2019) goal I've completed. 😇
 Anyway, the project is named [Schdlr](https://play.google.com/store/apps/details?id=com.schdlr), pronounced "Scheduler", It's a mobile application designed to share events (schedules) with family, friends, and colleagues. A schedule in this context could be a meetup group, calendar, timetable, etc. It works both offline and online.
 
-###Some of the features include:
+### Some of the features include:
 
 - Follow schedules of interest
 - Event offline reminders
@@ -25,7 +25,7 @@ Please give it a try and tell me what you think. It's currently available only o
 
 [![Schdlr](https://thepracticaldev.s3.amazonaws.com/i/1wde2gdt93xojqcs3ebu.png)](https://play.google.com/store/apps/details?id=com.schdlr)
 
-###Known issues:
+### Known issues:
 
 - No notification sound in some devices. Not sure if it's an android or module problem.
 - Sometimes AdMob delivers the wrong banner size. Still trying to figure it out. I try to keep Ads very minimal and unobtrusive.
