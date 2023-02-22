@@ -3,11 +3,15 @@ import Image from "next/image";
 import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
+import { PropsWithChildren } from "react";
 
 const name = "Babakolo Usman Suleiman";
 export const siteTitle = "Personal Blog";
 
-export default function Layout({ children, home }) {
+export default function Layout({
+  children,
+  home,
+}: PropsWithChildren<{ home: boolean }>) {
   return (
     <div className={styles.container}>
       <Head>
